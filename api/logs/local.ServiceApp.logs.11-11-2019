@@ -1,0 +1,12 @@
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-11T11:28:37.096Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-11T11:28:38.862Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-11T11:38:53.935Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-11T11:38:55.629Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-11T11:39:26.388Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-11T11:39:28.064Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-11T11:42:19.001Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-11T11:42:20.705Z"}
+{"level":"info","message":"\u001b[0mGET /healtch_check \u001b[33m404 \u001b[0m3.332 ms - 152\u001b[0m\n","timestamp":"2019-11-11T11:43:57.424Z"}
+{"level":"info","message":"\u001b[0mGET /health_check \u001b[32m200 \u001b[0m2.497 ms - 2\u001b[0m\n","timestamp":"2019-11-11T11:44:06.786Z"}
+{"level":"info","message":"\u001b[0mGET / \u001b[33m404 \u001b[0m3.298 ms - 218\u001b[0m\n","timestamp":"2019-11-11T11:44:20.110Z"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200 \u001b[0m2.843 ms - 22\u001b[0m\n","timestamp":"2019-11-11T11:44:56.989Z"}

@@ -1,0 +1,54 @@
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T10:51:16.369Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T10:51:18.189Z"}
+{"level":"info","message":"\u001b[0mPOST /users/signup \u001b[33m404 \u001b[0m2.691 ms - 152\u001b[0m\n","timestamp":"2019-11-12T10:51:57.892Z"}
+{"level":"error","message":"Error in sign upTypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string, Buffer, ArrayBuffer, Array, or Array-like Object. Received type undefined","timestamp":"2019-11-12T10:52:24.231Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[33m400 \u001b[0m298.086 ms - 189\u001b[0m\n","timestamp":"2019-11-12T10:52:24.235Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T10:54:13.527Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T10:54:15.222Z"}
+{"level":"error","message":"Error in sign upTypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string, Buffer, ArrayBuffer, Array, or Array-like Object. Received type undefined","timestamp":"2019-11-12T10:55:19.602Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[33m400 \u001b[0m291.725 ms - 189\u001b[0m\n","timestamp":"2019-11-12T10:55:19.610Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T10:55:43.970Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T10:55:45.694Z"}
+{"level":"error","message":"Error in sign upTypeError [ERR_INVALID_ARG_TYPE]: The first argument must be one of type string, Buffer, ArrayBuffer, Array, or Array-like Object. Received type undefined","timestamp":"2019-11-12T10:55:59.368Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[33m400 \u001b[0m277.969 ms - 189\u001b[0m\n","timestamp":"2019-11-12T10:55:59.375Z"}
+{"level":"error","message":"Error in sign upError: ENOENT: no such file or directory, open 'D:\\Ticket-System\\api\\EmailTemplates\\emailVerification.html'","timestamp":"2019-11-12T10:56:43.950Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[33m400 \u001b[0m1088.914 ms - 173\u001b[0m\n","timestamp":"2019-11-12T10:56:43.954Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T10:57:39.522Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T10:57:41.206Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[33m400 \u001b[0m244.488 ms - 80\u001b[0m\n","timestamp":"2019-11-12T11:00:01.131Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:02:28.106Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:02:29.836Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:08:05.080Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:08:06.789Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:08:30.122Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:08:31.764Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:08:53.340Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:08:55.134Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m585.196 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:11:31.642Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:32:04.893Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:32:06.518Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m495.863 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:32:40.641Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:35:14.308Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:35:16.053Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m554.637 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:36:44.721Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:37:42.726Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:37:44.548Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m542.252 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:38:04.684Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:38:41.252Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:38:42.971Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m583.363 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:39:13.173Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:41:25.378Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:41:27.109Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m517.686 ms - 796\u001b[0m\n","timestamp":"2019-11-12T11:42:51.608Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/signup \u001b[32m200 \u001b[0m488.381 ms - 812\u001b[0m\n","timestamp":"2019-11-12T11:45:30.444Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:46:32.068Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:46:33.815Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T11:47:27.792Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T11:47:29.442Z"}
+{"level":"info","message":"\u001b[0mGET /api/users/login \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"2019-11-12T12:50:08.539Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/login \u001b[33m401 \u001b[0m245.090 ms - 68\u001b[0m\n","timestamp":"2019-11-12T12:51:11.560Z"}
+{"level":"info","message":"\u001b[0mPOST /api/users/login \u001b[32m200 \u001b[0m268.687 ms - 596\u001b[0m\n","timestamp":"2019-11-12T12:51:30.845Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T12:52:16.126Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T12:52:18.068Z"}
+{"level":"info","message":"Server started on port : 8082","timestamp":"2019-11-12T12:52:25.844Z"}
+{"level":"info","message":"MongoDB Connected to ticket_system","timestamp":"2019-11-12T12:52:27.614Z"}
